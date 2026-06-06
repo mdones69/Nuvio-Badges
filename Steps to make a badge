@@ -1,0 +1,19 @@
+-----Image already created-----
+Color to alpha, button under "Color" dropdown
+Lock alpha channel (bottom right section)
+Set the foreground colour of your choice
+Fill with foreground colour, button under "Edit" dropdown
+Crop layer to content
+Scale Layer to "320" height
+Crop to content, button under "Image" dropdown
+
+-----Making Text-----
+Font: Arial Bold
+Size: 500
+Color: White - ffffff
+
+
+-----To make the badge bigger-----
+Canvas size button under "Image" dropdown (Increase height by 80 and width by 22)
+Layer to image size
+Scale image
